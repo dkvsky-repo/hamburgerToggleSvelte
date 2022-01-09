@@ -1,11 +1,12 @@
 <script>
   // import component here
+  import Hamburger from "@components/Hamburger.svelte";
 </script>
 
 <main>
   <h1>Hamburger Toggle</h1>
   <!-- place component here -->
-
+  <Hamburger />
 </main>
 
 <style>

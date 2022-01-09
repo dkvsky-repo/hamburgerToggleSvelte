@@ -1,8 +1,11 @@
-# Svelte + Vite
+# Svelte Hamburger Toggle Using Class Directive, Open Props and Replit 
+## (YouTube video)
 
-This template should help get you started developing with Svelte in Vite.
+In this video we create a hamburger toggle using Svelte's class directive. We don't build the whole hamburger menu, but we show the foundation if you wanted to build one.
+For styling we use Open Props: https://open-props.style
+Development environment: Replit https://replit.com
 
-The entry point for the app can be found in /src/App.svelte.
+If you want to inspect the code checkout link in the video description.
 
-
-See svelte.dev to get started with Svelte!
+Follow me on Twitter: 
+David Kontorovsky | https://twitter.com/dkvsky
